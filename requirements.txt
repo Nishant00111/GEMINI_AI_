@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+pdf2image
+sqlite3
+youtube_transcript_api
+pathlib
+PyPDF2
